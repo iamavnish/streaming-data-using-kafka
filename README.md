@@ -10,5 +10,5 @@ Medium
 
 ## Tech Stack
 
-Apache Kafka (Open Source)
-Python
+- Apache Kafka (Open Source)
+- Python
