@@ -16,3 +16,7 @@ Medium
 ## Use Case
 
 Use Python client with Kafka broker and create a data pipeline.
+
+## Kafka Architecture
+
+![image](https://github.com/user-attachments/assets/ac7c2f7a-93fd-4ad7-8172-28052af249d4)
