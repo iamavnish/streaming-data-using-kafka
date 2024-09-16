@@ -20,3 +20,7 @@ Use Python client with Kafka broker and create a data pipeline.
 ## Kafka Architecture
 
 ![image](https://github.com/user-attachments/assets/ac7c2f7a-93fd-4ad7-8172-28052af249d4)
+
+## Solution
+
+Create a Kafka topic. Then create a producer to send messages to Kafka topic. Finally, create a consumer to read messages from Kafka topic.
