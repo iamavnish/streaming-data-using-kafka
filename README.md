@@ -12,3 +12,7 @@ Medium
 
 - Apache Kafka (Open Source)
 - Python
+
+## Use Case
+
+Use Python client with Kafka broker and create a data pipeline.
